@@ -1,7 +1,7 @@
 # Databricks notebook source
 # This input is for debug purpose for this notebook
 # %run ../shared/functions
-
+# This input is for debug purpose for this notebook
 # COMMAND ----------
 
 from pyspark.sql import SparkSession
